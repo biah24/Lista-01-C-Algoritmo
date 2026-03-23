@@ -15,7 +15,7 @@ int main(){
 	
 
 
-printf("Ola %s, seja bem-vindo(a) ao curso de Algoritimos e Programacao Estruturada. Você tem: %d de idade", nome, idade );
+printf("Ola %s, seja bem-vindo(a) ao curso de Algoritimos e Programacao Estruturada. VocÃª tem: %d de idade", nome, idade );
  return(0);
 
 }
