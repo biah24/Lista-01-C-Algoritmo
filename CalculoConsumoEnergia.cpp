@@ -1,7 +1,7 @@
-//Faça um programa que calcule o valor a ser pago em uma conta de energia elétrica,
-//sabendo que o preço por KWh é fixo (0.50) e deve ser armazenado em uma constante. O
-//programa deve apresentar a seguinte mensagem (O valor da conta de energia é: R$
-//<valor>). Observação: o valor final deve possuir três casas decimais.
+//FaÃ§a um programa que calcule o valor a ser pago em uma conta de energia elÃ©trica,
+//sabendo que o preÃ§o por KWh Ã© fixo (0.50) e deve ser armazenado em uma constante. O
+//programa deve apresentar a seguinte mensagem (O valor da conta de energia Ã©: R$
+//<valor>). ObservaÃ§Ã£o: o valor final deve possuir trÃªs casas decimais.
 
 #include <stdio.h>
 #include <stdlib.h>
