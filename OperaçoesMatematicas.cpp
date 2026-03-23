@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-//Crie um programa que leia dois números de ponto flutuante, calcule e exiba a soma,
-//subtração, multiplicação e divisão deles
+//Crie um programa que leia dois nÃºmeros de ponto flutuante, calcule e exiba a soma,
+//subtraÃ§Ã£o, multiplicaÃ§Ã£o e divisÃ£o deles
 
 int main(){
 	float x;
