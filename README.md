@@ -1,2 +1,1 @@
-Lista de A  tividades em C. 
-Matéria: Algoritmos e Programação Estruturada
+Lista de A  tividades em C - Algoritmos e Programação Estruturada
