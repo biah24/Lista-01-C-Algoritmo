@@ -1,1 +1,1 @@
-Lista de A  tividades em C - Algoritmos e Programação Estruturada
+Lista 01 de Atividades em C - Algoritmos e Programação Estruturada
